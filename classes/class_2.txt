@@ -1,0 +1,13 @@
+Class: spoon
+
+Attributes:
+material (string)
+edible (boolean)
+weight (float)
+clean (boolean)
+
+Methods:
+burn (updates material)
+slides_across_tongue (affects boolean attribute)
+puts_food_onto (affects the weight as float)
+gets_thrown_in_dishwasher (makes the spoon clean)
