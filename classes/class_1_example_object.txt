@@ -1,0 +1,13 @@
+Instance: Satchel's on 6th bar stool
+
+Attributes:
+material: "cloth"
+moveable: true
+weight: 10.3
+colors: ["black", "brown"]
+
+Methods:
+make_pleather: material: "pleather"
+able_to_spin: moveable: true
+does_weigh: weight: 10.3
+paint: ["black", "brown", "white"]
