@@ -1,0 +1,13 @@
+Instance: soup ladle
+
+Attributes:
+material: "metal"
+edible: false
+weight: 2.5
+clean: attribute
+
+Methods:
+burn: material: ash
+slides_across_tongue: edible: false
+puts_food_onto: weight: 5.6
+gets_thrown_in_dishwasher: clean: attribute
