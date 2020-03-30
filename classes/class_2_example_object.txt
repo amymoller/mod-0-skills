@@ -9,5 +9,5 @@ clean: attribute
 Methods:
 burn: material: ash
 slides_across_tongue: edible: false
-puts_food_onto: weight: 5.6
-gets_thrown_in_dishwasher: clean: attribute
+add_food: weight: 5.6
+throw_in_dishwasher: clean: attribute
