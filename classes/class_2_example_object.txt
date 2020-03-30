@@ -4,10 +4,10 @@ Attributes:
 material: "metal"
 edible: false
 weight: 2.5
-clean: attribute
+clean: true
 
 Methods:
 burn: material: ash
 slides_across_tongue: edible: false
 add_food: weight: 5.6
-throw_in_dishwasher: clean: attribute
+throw_in_dishwasher: clean: true
