@@ -9,5 +9,5 @@ clean (boolean)
 Methods:
 burn (updates material)
 slides_across_tongue (affects boolean attribute)
-puts_food_onto (affects the weight as float)
-gets_thrown_in_dishwasher (makes the spoon clean)
+add_food (affects the weight as float)
+throw_in_dishwasher (makes the spoon clean)
