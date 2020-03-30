@@ -3,8 +3,7 @@ is_new = true
 food = "breakfast_burrito"
 num1 = 15
 num2 = 20
-num1 x num2
-= num3
+num 3 = num1 * num2
 movies = ["Super_Troopers", "Bridesmaids", "1917", "Parasite"]
 
 a = movies
