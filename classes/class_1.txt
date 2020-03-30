@@ -9,5 +9,5 @@ colors (array)
 Methods:
 make_pleather (updates material)
 able_to_spin (makes the stool moveable)
-does_weigh (affects the weight as float)
+is_heavy (affects the weight as float)
 paint (adds a color to color array)
